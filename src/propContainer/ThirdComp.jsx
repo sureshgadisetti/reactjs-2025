@@ -1,9 +1,9 @@
 import React from 'react'
 
-const FirstComp = (props) => {
+const ThirdComp = (props) => {
   return (
     <div>{props.name}</div>
   )
 }
 
-export default FirstComp
+export default ThirdComp
